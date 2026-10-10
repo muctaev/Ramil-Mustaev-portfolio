@@ -212,8 +212,8 @@ const Hero = () => {
               <FadeIn delay={1350} triggerOnLoad>
                 <div className="flex flex-wrap items-center gap-6 md:gap-8 lg:justify-end">
                   <a href="assets/Mustaev_DE_Resume.pdf" className="nav-link text-text-secondary text-[11px] tracking-[0.25em] font-medium uppercase">Download Resume</a>
-                  <a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" className="nav-link text-text-secondary text-[11px] tracking-[0.25em] font-medium uppercase">My GitHub</a>
-                  <a href="https://t.me/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" className="nav-link text-text-secondary text-[11px] tracking-[0.25em] font-medium uppercase">Telegram</a>
+                  <a href="https://github.com/muctaev" target="_blank" rel="noopener noreferrer" className="nav-link text-text-secondary text-[11px] tracking-[0.25em] font-medium uppercase">My GitHub</a>
+                  <a href="https://t.me/muctaev" target="_blank" rel="noopener noreferrer" className="nav-link text-text-secondary text-[11px] tracking-[0.25em] font-medium uppercase">Telegram</a>
                 </div>
               </FadeIn>
             </div>
